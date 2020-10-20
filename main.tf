@@ -22,10 +22,6 @@ output "azs" {
   value = local.azs
 }
 
-# output "azs2" {
-#   value = local.azs2
-# }
-
 output "count" {
   value = local.count
 }
